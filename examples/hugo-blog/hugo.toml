@@ -1,0 +1,8 @@
+baseURL = "https://your-domain.com/"
+languageCode = "en-us"
+title = "Your Technical Blog"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = false
